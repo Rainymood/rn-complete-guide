@@ -39,7 +39,16 @@ DevTools.
 
 ### v1.0.0
 
+* Can add goals!
+* Infinite scroll!
+
 ![](/doc/img1.png)
+
+### v1.2.0
+
+* Can remove goals! 
+
+![](/doc/img2.gif)
 
 ## Links
 
